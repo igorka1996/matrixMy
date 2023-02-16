@@ -2,6 +2,7 @@
   "name": "matrix",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://igorka1996.github.io/matrixMy",
   "dependencies": {
     "@date-io/dayjs": "^2.16.0",
     "@emotion/react": "^11.10.5",
@@ -19,6 +20,7 @@
     "@types/react-dom": "^18.0.0",
     "dayjs": "^1.11.7",
     "moment": "^2.29.4",
+    "node-sass": "^8.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
